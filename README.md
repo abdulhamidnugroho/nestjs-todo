@@ -38,3 +38,11 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+## Etc
+
+# OpenAPI (Swagger)
+$ localhost:3000/api
+
+# Auth
+$ Bearer token
